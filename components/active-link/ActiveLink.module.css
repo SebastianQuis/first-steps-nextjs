@@ -1,0 +1,7 @@
+.link {
+  @apply ml-4 hover:underline transition-all;
+}
+
+.active-link {
+  @apply ml-4 text-gray-400;
+}
